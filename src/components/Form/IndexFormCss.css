@@ -1,0 +1,14 @@
+input {
+  width: 75%;
+  padding: 5px;
+}
+.btnForm {
+  width: 25%;
+  padding: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.btnForm:active {
+  background-color: green;
+  color: white;
+}
